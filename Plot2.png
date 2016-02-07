@@ -1,1 +1,0 @@
-![Plot2]({{site.baseurl}}//plot2.png)
